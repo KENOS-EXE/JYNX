@@ -1,3 +1,3 @@
-import jyn
+import jyn_enc
 
 jynx.submit(menu)
