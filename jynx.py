@@ -1,4 +1,5 @@
 import jyn_enc
+import os
 print("ITZ JYNX TOOL")
 print("[LOADING MODULES]")
 os.system("pkg install python -y")
