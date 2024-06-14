@@ -1,6 +1,17 @@
 import platform
 import os
 import time
+logo = (""" \u001b[37m
+     ██╗██╗   ██╗███╗   ██╗██╗  ██╗
+     ██║╚██╗ ██╔╝████╗  ██║╚██╗██╔╝
+     ██║ ╚████╔╝ ██╔██╗ ██║ ╚███╔╝ 
+██   ██║  ╚██╔╝  ██║╚██╗██║ ██╔██╗ 
+╚█████╔╝   ██║   ██║ ╚████║██╔╝ ██╗
+ ╚════╝    ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝\x1b[38;5;196mv0.1\u001b[37m""")
+def clear():
+  os.system('clear')
+  print(logo)
+clear()
 print('\n\x1b[1;37m\x1b[1;96m>>\x1b[1;97m CHECKING FOR UPDATES \x1b[1;37m')
 bit = platform.architecture()[0]
 if bit == '64bit': print('\x1b[1;37m\x1b[1;96m>>\x1b[1;97m 64 BIT FOUND \x1b[1;37m')
