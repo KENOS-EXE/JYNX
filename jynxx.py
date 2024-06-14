@@ -8,10 +8,14 @@ logo = (""" \u001b[37m
 ██   ██║  ╚██╔╝  ██║╚██╗██║ ██╔██╗ 
 ╚█████╔╝   ██║   ██║ ╚████║██╔╝ ██╗
  ╚════╝    ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝\x1b[38;5;196mv0.1\u001b[37m""")
+print('===============================')
+def linex():
+     print('===============================')
 def clear():
   os.system('clear')
   print(logo)
 clear()
+linex()
 print('\n\x1b[1;37m\033[1;32;40m>>\x1b[1;97m CHECKING FOR UPDATES \x1b[1;37m')
 bit = platform.architecture()[0]
 if bit == '64bit': print('\x1b[1;37m\033[1;32;40m>>\x1b[1;97m 64 BIT FOUND \x1b[1;37m')
