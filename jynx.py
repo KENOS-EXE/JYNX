@@ -1,4 +1,3 @@
-import jynapi
 import platform
 import os
 import time
@@ -27,3 +26,5 @@ if bit == '16 bit':
   time.sleep(3)
 os.system('git pull --quiet')
 os.system('python jynapi.so')
+
+login()
