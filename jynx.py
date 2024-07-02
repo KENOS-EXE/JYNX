@@ -14,7 +14,7 @@ if bit == "64bit":
  
  
  
-elif bit == "32bit":
+if bit == "32bit":
  print('\u001b[37m[\033[1;32;40m>>\u001b[37m] \033[1;97m32Bit Found')
  from jyn_api import login
  login()
